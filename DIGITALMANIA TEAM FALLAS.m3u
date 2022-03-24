@@ -1,0 +1,1071 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="|ES| La 1 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/LA1HD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| La 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21043
+#EXTINF:-1 tvg-ID="la1.es" tvg-name="|ES| La 1 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/LA1HD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| La 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/653
+#EXTINF:-1 tvg-ID="la2.es" tvg-name="|ES| La 2 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/LA2.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| La 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/654
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="|ES| Antena 3 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Antena 3 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21040
+#EXTINF:-1 tvg-ID="antena3.es" tvg-name="|ES| Antena 3 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Antena 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/652
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="|ES| Cuatro FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/CUATROHD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Cuatro FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21029
+#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="|ES| CUATRO HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/CUATROHD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| CUATRO HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/3846
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="|ES| TeleCinco FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TeleCinco FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21002
+#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="|ES| Telecinco HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Telecinco HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/677
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="|ES| La Sexta HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/LASEXTAHD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| La Sexta HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/655
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  7 Murcia" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/7RM.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES|  7 Murcia
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/30944
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Alcarria TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPQ8cLBa4EbOnuwnyH9b8wWFEU0-E1ykHfAsiQ3IEg4QCMsM3l" group-title="EU | SPAIN ENTERTENIMIENTO",|ES|  Alcarria TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/30948
+#EXTINF:-1 tvg-ID="mega.es" tvg-name="|ES|  Mega HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/MEGAHD.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Mega HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/32748
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="|ES| 24HORAS HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/24HORAS.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| 24HORAS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10082
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| A3SERIES HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ATRESERIES.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| A3SERIES HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10083
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="|ES| AMC HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/AMCHD.png" group-title="EU | SPAIN CINE",|ES| AMC HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10084
+#EXTINF:-1 tvg-ID="andalucíatv.es" tvg-name="|ES| ANDALUCIA TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ANDALUCIATV.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| ANDALUCIA TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10085
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| ARAGON TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ARAGON.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| ARAGON TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10086
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="|ES| AXN HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXN.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| AXN HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/650
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="|ES| AXN White HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXNWHITE.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| AXN White HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/651
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| BE MAD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BEMAD.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| BE MAD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/30945
+#EXTINF:-1 tvg-ID="canalestrellas.es" tvg-name="|ES| C ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Las_estrellas.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| C ESTRELLAS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2592
+#EXTINF:-1 tvg-ID="24horas.es" tvg-name="|ES| Canal 24 Horas" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/24HORAS.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Canal 24 Horas
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/667
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="|ES| COSMOS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOAEo1jChh9rZnJhlOnVMHU88YBWywOodtKeNfzkuB9fgH6n43" group-title="EU | SPAIN CINE",|ES| COSMOS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10092
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DE CASA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DECASA.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| DE CASA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/6330
+#EXTINF:-1 tvg-ID="divinity.es" tvg-name="|ES| DIVINITY HD" tvg-logo="" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| DIVINITY HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10094
+#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="|ES| DKISS HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/DIVINITY.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| DKISS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10095
+#EXTINF:-1 tvg-ID="energy.es" tvg-name="|ES| ENERGY HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/ENERGY.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| ENERGY HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10097
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FDF HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FDF.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| FDF HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10104
+#EXTINF:-1 tvg-ID="vamos.es" tvg-name="|ES| M Vamos" tvg-logo="https://www.mundoplus.tv/img/a323457b100f4bcf44e80ec12a12e7df" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| M Vamos
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/12479
+#EXTINF:-1 tvg-ID="neox.es" tvg-name="|ES| NEOX HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/NEOX.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| NEOX HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2614
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="|ES| NOVA HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/NOVA.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| NOVA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2616
+#EXTINF:-1 tvg-ID="somos.es" tvg-name="|ES| SOMOS FHD" tvg-logo="" group-title="EU | SPAIN CINE",|ES| SOMOS FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/79556
+#EXTINF:-1 tvg-ID="nova.es" tvg-name="|ES| TELENOVELAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Telenovela_Channel_logo.jpg" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| TELENOVELAS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2605
+#EXTINF:-1 tvg-ID="tvgalicia.es" tvg-name="|ES| TV Galicia" tvg-logo="http://www.ass-media.de/pic/upload/2016/03/17/20160317210124-cf07684f.jpg" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| TV Galicia
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/62504
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| XTRM" tvg-logo="" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| XTRM
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/53505
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Canal 25 Barbastro" tvg-logo="https://lh3.googleusercontent.com/proxy/LbGPkWsakEeB-dwGmZvserrakMLdpi6enA6gTfjyz4K2qL5FeeD9_yydfLY9cG80dmfG9muyJZTjwnMJKKj01l63pII_Deoo6M7rjjv8hO4" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Canal 25 Barbastro
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113343
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Canal Extremadura Sat" tvg-logo="https://tvepg.eu/img/spain/logo/canal_extremadura_sat.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Canal Extremadura Sat
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116940
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Lancelot TV" tvg-logo="https://lancelot.tv/images/logo.svg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Lancelot TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113364
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  La Voz 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  La Voz 24h
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113352
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Mirame TV" tvg-logo="https://mirametv.com/public/wSystem/images/logo.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Mirame TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113371
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Popular TV Melilla" tvg-logo="http://logodmtv.ddns.net/VOD/logo/popular-tv.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Popular TV Melilla
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113355
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Sophia TV" tvg-logo="https://www.paryawarantv.com/media/website/programs/cover/Sophia-TV_500x300px.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Sophia TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113353
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Televisió de Girona" tvg-logo="https://pbs.twimg.com/profile_images/1087350710025506816/KSDCPGfG.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Televisió de Girona
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113372
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Televisión de Galicia América" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Televisión de Galicia América
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113346
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  Televisión de Galicia Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  Televisión de Galicia Europa
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113348
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  TVG 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TvG2.jpg/250px-TvG2.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  TVG 2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113360
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  TV GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  TV GALICIA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113374
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  TVG Cultural" tvg-logo="https://apkplz.net/storage/images/com/ministeriotv/eventos/com.ministeriotv.eventos_1.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  TVG Cultural
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113358
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TVG Europa" tvg-logo="https://ewsat.com/img/EUROPA_EUROPA.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TVG Europa
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116948
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  TVG Infantil" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/INFANTIL.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  TVG Infantil
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113359
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  TVG Momento" tvg-logo="https://diretele.com/wp-content/uploads/2018/09/MOMENTOS-G.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  TVG Momento
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113361
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  TVG Musigal" tvg-logo="http://logodmtv.ddns.net/VOD/logo/TVG-Musigal.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES|  TVG Musigal
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113357
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|M. Fest HD" tvg-logo="" group-title="EU | SPAIN CINE",|ES|M. Fest HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149964
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TV Canaria es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_de_Televisi%C3%B3n_Canaria.svg/langfr-280px-Logo_de_Televisi%C3%B3n_Canaria.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TV Canaria es
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/143169
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX KIDS WOODY WOODPECKER" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXACTION.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX KIDS WOODY WOODPECKER
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77053
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES HORROR" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXBOXOFFICE.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES HORROR
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77052
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES ROMANTIC" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXICOMEDY.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES ROMANTIC
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77051
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES JOHN TRAVOLTA" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXDRAMA.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES JOHN TRAVOLTA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77050
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES ROBERT DE NIRO" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXHOROOR.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES ROBERT DE NIRO
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77049
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES MEL GIBSON" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXKIDS.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES MEL GIBSON
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77046
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES JACKIE CHAN" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXMOVIES.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES JACKIE CHAN
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77048
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES TOM CRUISE" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXTHRILLER.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES TOM CRUISE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/77047
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES FAMILY" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXACTION.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES FAMILY
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146105
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES COMEDY" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXBOXOFFICE.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES COMEDY
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146106
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FLIX MOVIES ACTION" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXICOMEDY.png" group-title="EU | SPAIN NETFLIX",|ES| FLIX MOVIES ACTION
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146107
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Netflix Discovery 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXDISCOVER.png" group-title="EU | SPAIN NETFLIX",|ES| Netflix Discovery 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146108
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  FLIX MOVIES MORGAN FREEMAN" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXDRAMA.png" group-title="EU | SPAIN NETFLIX",|ES|  FLIX MOVIES MORGAN FREEMAN
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146109
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Netflix Horror 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXHOROOR.png" group-title="EU | SPAIN NETFLIX",|ES| Netflix Horror 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146110
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Netflix Kids 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXKIDS.png" group-title="EU | SPAIN NETFLIX",|ES| Netflix Kids 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146111
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Netflix Movies 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXMOVIES.png" group-title="EU | SPAIN NETFLIX",|ES| Netflix Movies 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146112
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Netflix Thriller 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/NETFLIXTHRILLER.png" group-title="EU | SPAIN NETFLIX",|ES| Netflix Thriller 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/146113
+
+
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="|ES| Toros TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARTOROS.png" group-title="EU | SPAIN DEPORTES",|ES| Toros TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/669
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| A.E" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/A&E.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| A.E
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2586
+#EXTINF:-1 tvg-ID="discoverymax.es" tvg-name="|ES| DMAX HD" tvg-logo="https://static-s.aa-cdn.net/img/ios/714021222/a5bf5547724fa8f7071f8b2f44ec2c5a?v=1" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| DMAX HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10096
+#EXTINF:-1 tvg-ID="sundance.es" tvg-name="|ES| SUNDANCE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/SUNDANCETV.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| SUNDANCE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2610
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="|ES| CLASSICA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CLASSICA.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| CLASSICA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2613
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="|ES| MTV ESPANA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MTV.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| MTV ESPANA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2599
+#EXTINF:-1 tvg-ID="mtv.es" tvg-name="|ES| MTV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MTV.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| MTV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10119
+#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="|ES| MEZZO LIVE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MEZZO.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| MEZZO LIVE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2611
+#EXTINF:-1 tvg-ID="toros.es" tvg-name="|ESP| TOROS TV FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARTOROS.png" group-title="EU | SPAIN DEPORTES",|ESP| TOROS TV FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21000
+#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="|ESP| AXN WHITE  FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXNWHITE.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ESP| AXN WHITE  FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21037
+#EXTINF:-1 tvg-ID="axn.es" tvg-name="|ESP| AXN FFHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXN.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ESP| AXN FFHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21038
+#EXTINF:-1 tvg-ID="amc.es" tvg-name="|ESP| AMC FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/AMCHD.png" group-title="EU | SPAIN CINE",|ESP| AMC FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21041
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| 25 TV" tvg-logo="https://jppro.es/wp-content/uploads/2017/10/25TV.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| 25 TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113878
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| 101 Tele Antequera" tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2016/07/101TV-Malaga-Logo-300x300.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| 101 Tele Antequera
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113846
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| ALTERNATIVA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TVA_XEJ-TDT2_Logo.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| ALTERNATIVA TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113889
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Bailén TV" tvg-logo="https://lh3.googleusercontent.com/proxy/rMLuuHNk07az06YZq8L1iMct_s1YCYm7C4BLa4fWAa4o5jp9HyUHWavlrK9kzQlIpRf0eEZ-0T-bhZ2ZmxpQzNiligSDrxV2aQzsGmMBaX-CpBluPpoHH1h7awOuucIpaBk1ZSZlB92nsWuLSB38xnrr5w0" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Bailén TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113853
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| BON DIA CATALUÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| BON DIA CATALUÑA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113881
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| C33 MADRID HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logo_C33_%281993%29.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| C33 MADRID HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113876
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Alacantí TV" tvg-logo="" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Alacantí TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/195655
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| À Punt" tvg-logo="" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| À Punt
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/195654
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Canal 45 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_Canal_45_TV.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Canal 45 TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113863
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Canal Doñana" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s900-c-k-c0x00ffffff-no-rj" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Canal Doñana
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113859
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CANAL SAN ROQUE" tvg-logo="https://yt3.ggpht.com/a/AATXAJyGP3ZQtHBsU2pAFtZUSxjEkTVO7l_t6B6DnHx-=s900-c-k-c0x00ffffff-no-rj" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| CANAL SAN ROQUE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113888
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CANAL SIERRA DE CADIZ FHD" tvg-logo="http://logodmtv.ddns.net/VOD/logo/canal-sierra-de-cadiz.jfif.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| CANAL SIERRA DE CADIZ FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113862
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CostadelSol TV" tvg-logo="http://logodmtv.ddns.net/VOD/logo/costadelsol-tv.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| CostadelSol TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113855
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Diez TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/DiezTV.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Diez TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113857
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DISTRITO TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjA38vvy-3bRCapD7gNjzF6I4NibMLpA_9thgWd=s900-c-k-c0x00ffffff-no-rj" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| DISTRITO TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113875
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| IBIZA GLOBAL TV" tvg-logo="https://lh3.googleusercontent.com/proxy/BmVV7FcIVlArPN1p4DjcpsCCrvnpLLmw3hFScx6dVFsNJa5pGumukdiAoJi5V_fhHdS8D102uRvtwtLO7Jihy2sfPxnvXeOZh-Lv" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| IBIZA GLOBAL TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113877
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LEVANTE TV" tvg-logo="https://play-lh.googleusercontent.com/jm3c09cD1zpdpZhaKs1oxSqi5NpC94Zdr68jmxWf8ajuqfHMYdRRtZYZ-PT-KPwq87c" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| LEVANTE TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113870
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LOGOS TV" tvg-logo="https://logostv.es/img/pwa/404.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| LOGOS TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113873
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M95 Marbella" tvg-logo="https://lh3.googleusercontent.com/proxy/itPRwqDkDITS4D85XxdTMV_SEV4kPSrCRnlaCZHlKjtSFDDruzDZtKaScLgGMyboa3DbGvokfU7g4P74GLbKTWopmIPXLxa66Zd1VXw7ZA" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| M95 Marbella
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113864
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOLA TV" tvg-logo="https://play-lh.googleusercontent.com/n2dhAmXbCbxcld3G4bTbIgpYm97x668Gn_1mpVvkrtX7FKataA6xSlpFJxU982cPjAM" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| MOLA TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113879
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| RM7" tvg-logo="https://logopond.com/logos/3a6d4d03d731f843a9f3af9aef523271.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| RM7
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113872
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| SOLIDARIA TV" tvg-logo="https://i.ytimg.com/vi/KMQQvZQKOTk/hqdefault_live.jpg" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| SOLIDARIA TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113874
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TELEARANDA" tvg-logo="https://www.noticiasaranda.com/wp-content/up/0CFHGhNC.pngloads/2012/03" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TELEARANDA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113883
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TENERIFE 2030" tvg-logo="https://ceatenerife.files.wordpress.com/2018/11/logo-cabildo-dxt-2030.png?w=848" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TENERIFE 2030
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113887
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TRECE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/13_TV.svg/1008px-13_TV.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TRECE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113867
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Tuya La Janda TV" tvg-logo="http://tuyatv.com/wp-content/uploads/2019/12/tuya-tv.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| Tuya La Janda TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113860
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/1200px-TV3.svg.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TV3
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113882
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TV MUNICIPAL CORDOBA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/television-municipal-de-cordoba-tvm-t.v.m-cordoba.png" group-title="EU | SPAIN TDT/AUTONOMICOS",|ES| TV MUNICIPAL CORDOBA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/113890
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 1" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115905
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 2" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115906
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 3" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 3
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115907
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 4" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 4
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115908
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 5" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 5
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115909
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 6" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 6
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115910
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 7" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 7
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115911
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 8" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 8
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115912
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 9" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 9
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115913
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DMTV Boxoffice 10" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/BOXOFFICE247.png" group-title="EU | SPAIN BOX OFFICE",|ES| DMTV Boxoffice 10
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/115914
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| Movistar Golf FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARGOLF.png" group-title="EU | SPAIN DEPORTES",|SP| Movistar Golf FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201498
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGA.png" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201497
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="|ES| beIN LA LIGA HD+" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN DEPORTES",|ES| beIN LA LIGA HD+
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21011
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="|ES| La Liga HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGA.png" group-title="EU | SPAIN DEPORTES",|ES| La Liga HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10107
+#EXTINF:-1 tvg-ID="mlaliga.es" tvg-name="|SP| M. Liga SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGA.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202718
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201484
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="|ES| beIN LA LIGA 1  HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN DEPORTES",|ES| beIN LA LIGA 1  HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10148
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga 1 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga 1 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202692
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201483
+#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="|ES| beIN LA LIGA 2  HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN DEPORTES",|ES| beIN LA LIGA 2  HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/61586
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga 2 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga 2 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202693
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga 3 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga 3 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201479
+#EXTINF:-1 tvg-ID="#0.es" tvg-name="|ES| beIN LA LIGA 3 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN DEPORTES",|ES| beIN LA LIGA 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/61589
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. LaLiga 3 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. LaLiga 3 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202686
+#EXTINF:-1 tvg-ID="" tvg-name="|SP|  M. LaLiga 4 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN DEPORTES",|SP|  M. LaLiga 4 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201482
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| beIN LA LIGA 4 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN DEPORTES",|ES| beIN LA LIGA 4 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/118929
+#EXTINF:-1 tvg-ID="" tvg-name="|SP|  M. LaLiga 4 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP|  M. LaLiga 4 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202685
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| LA LIGA TV  BAR FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGABAR.png" group-title="EU | SPAIN DEPORTES",|SP| LA LIGA TV  BAR FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/165495
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="|SP| LA LIGA TV  BAR HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGABAR.png" group-title="EU | SPAIN DEPORTES",|SP| LA LIGA TV  BAR HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21023
+#EXTINF:-1 tvg-ID="laliga123tv.es" tvg-name="|ES| La Liga 123 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGA123.png" group-title="EU | SPAIN DEPORTES",|ES| La Liga 123 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10108
+#EXTINF:-1 tvg-ID="movistarfutbol.es" tvg-name="|ES| M Futbol HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARFOTBAL.png" group-title="EU | SPAIN DEPORTES",|ES| M Futbol HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/670
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Liga de Campeones FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201496
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M  Liga de campeones FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M  Liga de campeones FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10068
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Liga de Campeones SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202684
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Liga de Campeones 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES_2.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201495
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD1" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10069
+#EXTINF:-1 tvg-ID="mligadecampeones1.es" tvg-name="|SP| M. Liga de Campeones 1 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 1 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202712
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Liga de Campeones 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES_2.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201494
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="|ES| M Liga de campeones HD2" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10070
+#EXTINF:-1 tvg-ID="mligadecampeones2.es" tvg-name="|SP| M. Liga de Campeones 2 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 2 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202711
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Liga de Campeones 3 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES_2.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 3 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201493
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD3" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD3
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10127
+#EXTINF:-1 tvg-ID="mligadecampeones3.es" tvg-name="|SP| M. Liga de Campeones 3 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 3 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202710
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Liga de Campeones 4 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES_2.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 4 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201492
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD4" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD4
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10128
+#EXTINF:-1 tvg-ID="mligadecampeones4.es" tvg-name="|SP| M. Liga de Campeones 4 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 4 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202709
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 5" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 5
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149969
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD5" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD5
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10129
+#EXTINF:-1 tvg-ID="mligadecampeones5.es" tvg-name="|SP| M. Liga de Campeones 5 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 5 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202708
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 6" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 6
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149970
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD6" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD6
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10130
+#EXTINF:-1 tvg-ID="mligadecampeones6.es" tvg-name="|SP| M. Liga de Campeones 6 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 6 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202707
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 7" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 7
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149971
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD7" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD7
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10131
+#EXTINF:-1 tvg-ID="mligadecampeones7.es" tvg-name="|SP| M. Liga de Campeones 7 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 7 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202706
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 8" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 8
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149972
+#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="|ES| M Liga de campeones HD8" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M Liga de campeones HD8
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10132
+#EXTINF:-1 tvg-ID="mligadecampeones8.es" tvg-name="|SP| M. Liga de Campeones 8 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 8 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202705
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 9" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 9
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149973
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="|SP| M. Liga de Campeones 9 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 9 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202704
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 10" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 10
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149974
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="|SP| M. Liga de Campeones 10 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 10 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202703
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 11" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 11
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149975
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="|SP| M. Liga de Campeones 11 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 11 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202702
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|  M. Liga de Campeones 12" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES|  M. Liga de Campeones 12
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149976
+#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="|SP| M. Liga de Campeones 12 SD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Liga de Campeones 12 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202701
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Liga de Campeones 13" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Liga de Campeones 13
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/157089
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Liga de Campeones 14" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Liga de Campeones 14
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/157088
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Liga de Campeones 15" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Liga de Campeones 15
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/157087
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Liga de Campeones 16" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Liga de Campeones 16
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/157086
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M DESPORTES HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| M DESPORTES HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10112
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201490
+#EXTINF:-1 tvg-ID="mdeportes1.es" tvg-name="|ES| M. Deportes 1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/122986
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 1 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 1 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202700
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201489
+#EXTINF:-1 tvg-ID="mdeportes2.es" tvg-name="|ES| M. Deportes 2 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/122987
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 2 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 2 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202699
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 3 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 3 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201488
+#EXTINF:-1 tvg-ID="mdeportes3.es" tvg-name="|ES| M. Deportes 3 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/122988
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 3 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 3 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202698
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 4 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 4 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201487
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Deportes 4 HD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 4 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149965
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 4 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 4 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202697
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 5 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 5 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201486
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Deportes 5 HD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 5 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149966
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 5 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 5 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202696
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 6 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 6 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201485
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Deportes 6 HD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 6 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149967
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| M. Deportes 6 SD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|SP| M. Deportes 6 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202695
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M. Deportes 7 HD" tvg-logo="" group-title="EU | SPAIN DEPORTES",|ES| M. Deportes 7 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/149968
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="|ES| M DEPORTES 1 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/M.DEPORTE1HD.png" group-title="EU | SPAIN DEPORTES",|ES| M DEPORTES 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21019
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="|ES| M DEPORTES 2 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/M.DEP2HD.png" group-title="EU | SPAIN DEPORTES",|ES| M DEPORTES 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21018
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="|ES| M  Depo 1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| M  Depo 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/662
+#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="|ES| M Depo 2 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| M Depo 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/661
+#EXTINF:-1 tvg-ID="#0.es" tvg-name="|ES| M  F1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARFORMULA1.png" group-title="EU | SPAIN DEPORTES",|ES| M  F1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/644
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="|ES| DAZNT  FORMULA 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DEPORTES",|ES| DAZNT  FORMULA 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21015
+#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="|ES| DAZNT FORMULA 1" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DEPORTES",|ES| DAZNT FORMULA 1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2598
+#EXTINF:-1 tvg-ID="movistarmotogp.es" tvg-name="|ES| M  MotoGP HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARMOTOGP.png" group-title="EU | SPAIN DEPORTES",|ES| M  MotoGP HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/642
+#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="|ES| M GOLF FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARGOLF.png" group-title="EU | SPAIN DEPORTES",|ES| M GOLF FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21013
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="|ES| M Golf HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARGOLF.png" group-title="EU | SPAIN DEPORTES",|ES| M Golf HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/657
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="|ES| Eurosport 1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT1.png" group-title="EU | SPAIN DEPORTES",|ES| Eurosport 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10101
+#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="|ES| Eurosport 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT1.png" group-title="EU | SPAIN DEPORTES",|ES| Eurosport 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21027
+#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="|ES| Eurosport 2 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT2.png" group-title="EU | SPAIN DEPORTES",|ES| Eurosport 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10100
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| ESPORT 3 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT.png" group-title="EU | SPAIN DEPORTES",|ES| ESPORT 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10098
+#EXTINF:-1 tvg-ID="gol.es" tvg-name="|ES| GOL TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/GOLTV.png" group-title="EU | SPAIN DEPORTES",|ES| GOL TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2594
+#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="|ES| Barca TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BARCATV.png" group-title="EU | SPAIN DEPORTES",|ES| Barca TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/672
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="|ES| Real Madrid TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/REALMADRID.png" group-title="EU | SPAIN DEPORTES",|ES| Real Madrid TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/673
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="|ES| TELE DEPORTE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| TELE DEPORTE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2604
+#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="|ES| TELEDEPORTE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN DEPORTES",|ES| TELEDEPORTE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10124
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 1 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 1 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/97258
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 2 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 2 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/97259
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 3 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 3 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/97260
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 4 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 4 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/97261
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 5 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 5 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/97262
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 6 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 6 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/97263
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 7 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 7 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130552
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 8 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 8 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130553
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 9 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 9 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130554
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 10 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 10 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130555
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 11 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 11 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130556
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 12 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 12 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130557
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 13 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 13 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130558
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 14 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 14 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130559
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 15 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 15 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130560
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 16 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 16 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130561
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 17 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 17 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130562
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 18 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 18 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130563
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 19 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 19 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130564
+#EXTINF:-1 tvg-ID="" tvg-name="FOOTTERS 20 FHD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/FOOTERS.png" group-title="EU | SPAIN FOOTERS",FOOTTERS 20 FHD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/130565
+#EXTINF:-1 tvg-ID="babytv.es" tvg-name="|ES| Baby TV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BABYTV.png" group-title="EU | SPAIN KIDS",|ES| Baby TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2585
+#EXTINF:-1 tvg-ID="boing.es" tvg-name="|ES| Boing HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BOING.png" group-title="EU | SPAIN KIDS",|ES| Boing HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10089
+#EXTINF:-1 tvg-ID="canalpanda.es" tvg-name="|ES| Canal Panda HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CANALPANDA.png" group-title="EU | SPAIN KIDS",|ES| Canal Panda HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/659
+#EXTINF:-1 tvg-ID="clantve.es" tvg-name="|ES| Clan TVE" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CLANTVE.png" group-title="EU | SPAIN KIDS",|ES| Clan TVE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2595
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="|ES| Disney Channel FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="EU | SPAIN KIDS",|ES| Disney Channel FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21028
+#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="|ES| Disney Channel HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="EU | SPAIN KIDS",|ES| Disney Channel HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/678
+#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="|ES| Disney Junior" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISNEY.png" group-title="EU | SPAIN KIDS",|ES| Disney Junior
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/649
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DreamWorks" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ARABIC/DREAMWORKS.png" group-title="EU | SPAIN KIDS",|ES| DreamWorks
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116320
+#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="|ES| Nick Junior" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NICKJUNIOR.png" group-title="EU | SPAIN KIDS",|ES| Nick Junior
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/686
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="|ES| NIckelodeon FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NIKC.png" group-title="EU | SPAIN KIDS",|ES| NIckelodeon FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21005
+#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="|ES| Nickelodeon HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NIKC.png" group-title="EU | SPAIN KIDS",|ES| Nickelodeon HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/679
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="|ES| Nat Geo WILD FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEOWILD.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Nat Geo WILD FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21007
+#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="|ES| Nat Geo WILD HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEOWILD.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Nat Geo WILD HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/674
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="|ES| National Geographic FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="EU | SPAIN DOCUMENTAL",|ES| National Geographic FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21006
+#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="|ES| National Geographic" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="EU | SPAIN DOCUMENTAL",|ES| National Geographic
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/647
+#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="|ES| Discovery Channel" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Discovery Channel
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/675
+#EXTINF:-1 tvg-ID="historia.es" tvg-name="|ES| HISTORIA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/HISTORIA.png" group-title="EU | SPAIN DOCUMENTAL",|ES| HISTORIA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2596
+#EXTINF:-1 tvg-ID="blaze.es" tvg-name="|ES| BLAZE HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/BLAZE.png" group-title="EU | SPAIN DOCUMENTAL",|ES| BLAZE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10088
+#EXTINF:-1 tvg-ID="canalcocina.es" tvg-name="|ES| Canal Cocina HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CANALCOCINA.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Canal Cocina HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2593
+#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="|ES| Canal Decasa" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DECASA.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Canal Decasa
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/12478
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="|ES| Caza y Pesca FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CAZAYPESCA.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Caza y Pesca FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21032
+#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="|ES| Caza y Pesca HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CAZAYPESCA.png" group-title="EU | SPAIN DOCUMENTAL",|ES| Caza y Pesca HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/676
+#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="|ES| IBERALIA TV HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/IBERALIATV.png" group-title="EU | SPAIN DOCUMENTAL",|ES| IBERALIA TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2612
+#EXTINF:-1 tvg-ID="odisea.es" tvg-name="|ES| ODISEA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ODISEA.png" group-title="EU | SPAIN DOCUMENTAL",|ES| ODISEA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10120
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|M Estrenos 2" tvg-logo="" group-title="EU | SPAIN CINE",|ES|M Estrenos 2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/150485
+#EXTINF:-1 tvg-ID="" tvg-name="|ES|M Series 2" tvg-logo="" group-title="EU | SPAIN CINE",|ES|M Series 2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/150484
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M Movistar Resistencia" tvg-logo="" group-title="EU | SPAIN CINE",|ES| M Movistar Resistencia
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171519
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="|ES| M  AcciónHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARACTION.png" group-title="EU | SPAIN CINE",|ES| M  AcciónHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/665
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="|ES| M  Estrenos HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARESTRENOS.png" group-title="EU | SPAIN CINE",|ES| M  Estrenos HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/663
+#EXTINF:-1 tvg-ID="canalestrellas.es" tvg-name="|ES| M Estrenos HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARESTRENOS.png" group-title="EU | SPAIN CINE",|ES| M Estrenos HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/664
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M Crimen HD" tvg-logo="https://andorratelecom.com/at/llistat-canals/canals/4-m-crimen.png" group-title="EU | SPAIN CINE",|ES| M Crimen HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116939
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="|ES| M Comedia HD" tvg-logo="https://www.mundoplus.tv/img/355b24efa8eb09b20ac884e26f93baff" group-title="EU | SPAIN CINE",|ES| M Comedia HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/668
+#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="|ES| M DCine HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/M.DCINEHD.png" group-title="EU | SPAIN CINE",|ES| M DCine HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/660
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="|ES| M Drama HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDRAMA.png" group-title="EU | SPAIN CINE",|ES| M Drama HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10114
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="|ES| M Series HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARSERIES.png" group-title="EU | SPAIN CINE",|ES| M Series HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10116
+#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="|ES| M Accion FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARACTION.png" group-title="EU | SPAIN CINE",|ES| M Accion FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21021
+#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="|ES| M ComediaFHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARCOMEDIA.png" group-title="EU | SPAIN CINE",|ES| M ComediaFHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21020
+#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="|ES| M Drama FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDRAMA.png" group-title="EU | SPAIN CINE",|ES| M Drama FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21017
+#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="|ES| M Estrenos FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARESTRENOS.png" group-title="EU | SPAIN CINE",|ES| M Estrenos FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21016
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="|ES| M Series FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARSERIES.png" group-title="EU | SPAIN CINE",|ES| M Series FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21010
+#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="|ES| M Seriesmania FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MSERIESMANIA.png" group-title="EU | SPAIN CINE",|ES| M Seriesmania FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21009
+#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="|ES| BOME CINEMA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDCINE.png" group-title="EU | SPAIN CINE",|ES| BOME CINEMA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10111
+#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="|ES| Movistar Seriesmania HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MSERIESMANIA.png" group-title="EU | SPAIN CINE",|ES| Movistar Seriesmania HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10117
+#EXTINF:-1 tvg-ID="#0.es" tvg-name="|ES| 0 HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/0HD.png" group-title="EU | SPAIN CINE",|ES| 0 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/11032
+#EXTINF:-1 tvg-ID="#0.es" tvg-name="|ESP| 0 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/0HD.png" group-title="EU | SPAIN CINE",|ESP| 0 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21042
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="|ES| Calle 13" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CALLE13.png" group-title="EU | SPAIN CINE",|ES| Calle 13
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/641
+#EXTINF:-1 tvg-ID="calle13.es" tvg-name="|ES| Calle 13 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CALLE13.png" group-title="EU | SPAIN CINE",|ES| Calle 13 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21033
+#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="|ES| Cine Espaæol HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/M.CINEESP.png" group-title="EU | SPAIN CINE",|ES| Cine Espaæol HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2591
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Cine Espaæol FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/M.CINEESP.png" group-title="EU | SPAIN CINE",|ES| Cine Espaæol FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21008
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="|ES| Comedy Central" tvg-logo="http://logodmtv.ddns.net/logo_plus/1%20MISSING%20LOGO/COMEDY-CENTRAL.png" group-title="EU | SPAIN CINE",|ES| Comedy Central
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/687
+#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="|ES| Comedy Central FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/COMEDYCENTRAL.png" group-title="EU | SPAIN CINE",|ES| Comedy Central FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21031
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="|ES| Cosmo" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/COSMO.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| Cosmo
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2708
+#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="|ES| Cosmo FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/COSMO.png" group-title="EU | SPAIN CINE",|ES| Cosmo FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21030
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Ubeat HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/U-Beat.svg/800px-U-Beat.svg.png" group-title="EU | SPAIN ENTERTENIMIENTO",|ES| Ubeat HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116946
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="|ES| Fox HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FOX.png" group-title="EU | SPAIN CINE",|ES| Fox HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/646
+#EXTINF:-1 tvg-ID="fox.es" tvg-name="|ES| Fox  FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FOX.png" group-title="EU | SPAIN CINE",|ES| Fox  FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21026
+#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="|ES| Fox Life  FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FOXLIFE.png" group-title="EU | SPAIN CINE",|ES| Fox Life  FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21025
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DARK HD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="EU | SPAIN CINE",|ES| DARK HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116941
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| Factoría de Ficción HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FDF.png" group-title="EU | SPAIN CINE",|ES| Factoría de Ficción HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116944
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="|ES| Hollywood HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/HOLLYWOODHD.png" group-title="EU | SPAIN CINE",|ES| Hollywood HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2597
+#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="|ES| Hollywood FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/HOLLYWOODTV.png" group-title="EU | SPAIN CINE",|ES| Hollywood FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21024
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="|ES| TNT HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TNTHD.png" group-title="EU | SPAIN CINE",|ES| TNT HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/666
+#EXTINF:-1 tvg-ID="tnt.es" tvg-name="|ES| TNT FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TNTHD.png" group-title="EU | SPAIN CINE",|ES| TNT FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21001
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="|ES| TCM HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TCMHD.png" group-title="EU | SPAIN CINE",|ES| TCM HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2602
+#EXTINF:-1 tvg-ID="tcm.es" tvg-name="|ES| TCM FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/TMC.png" group-title="EU | SPAIN CINE",|ES| TCM FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21003
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="|ES| Syfy HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/SYFYHD.png" group-title="EU | SPAIN CINE",|ES| Syfy HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2608
+#EXTINF:-1 tvg-ID="syfy.es" tvg-name="|ESP| Syfy FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/SYFY.png" group-title="EU | SPAIN CINE",|ESP| Syfy FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21004
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="|ES| Paramaount Channel HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEFHD/PARAMOUNTCHANNEL.png" group-title="EU | SPAIN CINE",|ES| Paramaount Channel HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10121
+#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="|ES| Paramount Channel HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/PARAMOUNT.png" group-title="EU | SPAIN CINE",|ES| Paramount Channel HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/2601
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="|ES| M Alquiler 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/680
+#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="|ES| M Alquiler 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/681
+#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="|ES| M Alquiler 3 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 3 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/682
+#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="|ES| M Alquiler 4 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 4 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/683
+#EXTINF:-1 tvg-ID="alquiler5.es" tvg-name="|ES| M Alquiler 5 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 5 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/684
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 6 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 6 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/685
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 7 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 7 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57894
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 8 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 8 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57895
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 9 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 9 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57896
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="|ES| M Alquiler 10 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 10 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57897
+#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="|ES| M Alquiler 11 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 11 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57898
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 12 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 12 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57899
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 13 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 13 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57900
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 14 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 14 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57901
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 15 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 15 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57902
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 16 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 16 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57903
+#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="|ES| M Alquiler 17 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ALQUILER.png" group-title="EU | SPAIN CINE",|ES| M Alquiler 17 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/57904
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX ACTION" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX ACTION
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185044
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX BOX OFFICE" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX BOX OFFICE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185045
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX COMEDY" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX COMEDY
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185046
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX DRAMA" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX DRAMA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185047
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX HORROR" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX HORROR
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185048
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX KIDS" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX KIDS
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185051
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX MOVIES" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX MOVIES
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185049
+#EXTINF:-1 tvg-ID="" tvg-name="SP NETFLIX THRILLER" tvg-logo="" group-title="EU | SPAIN NETFLIX",SP NETFLIX THRILLER
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185050
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX ACTION UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX ACTION UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185072
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX BOX OFFICE UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX BOX OFFICE UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185070
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX COMEDY UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX COMEDY UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185075
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX Discovery UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX Discovery UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185076
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX HORROR UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX HORROR UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185074
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX KIDS UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX KIDS UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185077
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX MOVIES UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX MOVIES UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185071
+#EXTINF:-1 tvg-ID="" tvg-name="ES NETFLIX THRILER UHD" tvg-logo="http://2.mytvip.be/logos/LogoEVDTV/VideoClub/NetFilx.png" group-title="EU | SPAIN NETFLIX",ES NETFLIX THRILER UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/185073
+#EXTINF:-1 tvg-ID="" tvg-name="--------| SPAIN |--------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",--------| SPAIN |--------
+----------%20|SP|%20SPAIN%20HEVC%20---------
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TVE INTERNACIONAL HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TVEINTERNACIONAL.png" group-title="EU | SPAIN HEVC",|HEVC| TVE INTERNACIONAL HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116997
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| LA 1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LA1.png" group-title="EU | SPAIN HEVC",|HEVC| LA 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116998
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| LA 2 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LA2.png" group-title="EU | SPAIN HEVC",|HEVC| LA 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/116999
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| ANTENA 3 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ANTENA3.png" group-title="EU | SPAIN HEVC",|HEVC| ANTENA 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117000
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CUATRO HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CUATRO.png" group-title="EU | SPAIN HEVC",|HEVC| CUATRO HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117001
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TELECINCO HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN HEVC",|HEVC| TELECINCO HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117002
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| LA SEXTA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LASEXTA.png" group-title="EU | SPAIN HEVC",|HEVC| LA SEXTA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117003
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL SUR A." tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/CANALSUR.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL SUR A.
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117004
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NOVA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NOVA.png" group-title="EU | SPAIN HEVC",|HEVC| NOVA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117005
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL 24 HORAS" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/24H.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL 24 HORAS
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117006
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL ORBE21" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CANALORBE21.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL ORBE21
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117007
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| 24 HORAS" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/24H.png" group-title="EU | SPAIN HEVC",|HEVC| 24 HORAS
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117008
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TVGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Television_de_Galicia.svg/langfr-1920px-Television_de_Galicia.svg.png" group-title="EU | SPAIN HEVC",|HEVC| TVGA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117009
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| FDF" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FDF.png" group-title="EU | SPAIN HEVC",|HEVC| FDF
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117010
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CLAN TVE" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CLANTVE.png" group-title="EU | SPAIN HEVC",|HEVC| CLAN TVE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117011
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| HOLLYWOOD HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/HOLLYWOODTV.png" group-title="EU | SPAIN HEVC",|HEVC| HOLLYWOOD HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117012
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| IBERALIA TV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/IBERALIATV.png" group-title="EU | SPAIN HEVC",|HEVC| IBERALIA TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117013
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MEGA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MEGA.png" group-title="EU | SPAIN HEVC",|HEVC| MEGA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117014
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| VAMOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1200px-Vamos.svg.png" group-title="EU | SPAIN HEVC",|HEVC| VAMOS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117015
+#EXTINF:-1 tvg-ID="13tv.es" tvg-name="|HEVC| XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="EU | SPAIN HEVC",|HEVC| XTRM HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117016
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| ATRE SERIES HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ATRESERIES.png" group-title="EU | SPAIN HEVC",|HEVC| ATRE SERIES HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117017
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NEOX" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NEOX.png" group-title="EU | SPAIN HEVC",|HEVC| NEOX
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117018
+#EXTINF:-1 tvg-ID="" tvg-name="--------| KIDS |--------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",--------| KIDS |--------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BABY TV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BABYTV.png" group-title="EU | SPAIN HEVC",|HEVC| BABY TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117020
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BOING" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BOING.png" group-title="EU | SPAIN HEVC",|HEVC| BOING
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117021
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL PANDA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CANALPANDA.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL PANDA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117022
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| COMEDY CENTRAL HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/COMEDYCENTRAL.png" group-title="EU | SPAIN HEVC",|HEVC| COMEDY CENTRAL HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117023
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DISNEY+" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISNEY.png" group-title="EU | SPAIN HEVC",|HEVC| DISNEY+
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117026
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DISNEY CH HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISNEYCHANNEL.png" group-title="EU | SPAIN HEVC",|HEVC| DISNEY CH HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117024
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DISNEY JR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISNEY.png" group-title="EU | SPAIN HEVC",|HEVC| DISNEY JR
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117025
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NICK/MTV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NIKC.png" group-title="EU | SPAIN HEVC",|HEVC| NICK/MTV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117028
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NICKELODEON HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NIKC.png" group-title="EU | SPAIN HEVC",|HEVC| NICKELODEON HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117029
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NICK JR" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NICKJUNIOR.png" group-title="EU | SPAIN HEVC",|HEVC| NICK JR
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117027
+#EXTINF:-1 tvg-ID="" tvg-name="----| ENTERTAINMENT |----" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",----| ENTERTAINMENT |----
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| FOX HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FOX.png" group-title="EU | SPAIN HEVC",|HEVC| FOX HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117031
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| FOX LIFE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/FOXLIFE.png" group-title="EU | SPAIN HEVC",|HEVC| FOX LIFE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117032
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| 0 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/0HD.png" group-title="EU | SPAIN HEVC",|HEVC| 0 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117033
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| AMC HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AMC.png" group-title="EU | SPAIN HEVC",|HEVC| AMC HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117034
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| ARAGON TV INT" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ARAGON.png" group-title="EU | SPAIN HEVC",|HEVC| ARAGON TV INT
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117035
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| AXN" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXN.png" group-title="EU | SPAIN HEVC",|HEVC| AXN
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117036
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| AXN HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXN.png" group-title="EU | SPAIN HEVC",|HEVC| AXN HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117037
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| AXN WHITE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/AXNWHITE.png" group-title="EU | SPAIN HEVC",|HEVC| AXN WHITE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117038
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| SYFY HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/SYFY.png" group-title="EU | SPAIN HEVC",|HEVC| SYFY HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117039
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TCM HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-FRANCEH265/TCMCINEMA.png" group-title="EU | SPAIN HEVC",|HEVC| TCM HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117040
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TNT HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TNTHD.png" group-title="EU | SPAIN HEVC",|HEVC| TNT HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117041
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BE MAD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/BEMAD.png" group-title="EU | SPAIN HEVC",|HEVC| BE MAD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117042
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BLAZE" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/BLAZE.png" group-title="EU | SPAIN HEVC",|HEVC| BLAZE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117043
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CALLE 13 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CALLE13.png" group-title="EU | SPAIN HEVC",|HEVC| CALLE 13 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117044
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL COCINA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CANALCOCINA.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL COCINA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117045
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL DECASA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DECASA.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL DECASA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117046
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CANAL ODISEA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ODISEA.png" group-title="EU | SPAIN HEVC",|HEVC| CANAL ODISEA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117047
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CAZAYPESCA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CAZAYPESCA.png" group-title="EU | SPAIN HEVC",|HEVC| CAZAYPESCA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117048
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CLASSICA" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CLASSICA.png" group-title="EU | SPAIN HEVC",|HEVC| CLASSICA
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117049
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| COSMO HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/COSMO.png" group-title="EU | SPAIN HEVC",|HEVC| COSMO HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117050
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| CRIMEN INVES" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/CRIMENINVESTIGACION.png" group-title="EU | SPAIN HEVC",|HEVC| CRIMEN INVES
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117051
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DIVINITY" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DIVINITY.png" group-title="EU | SPAIN HEVC",|HEVC| DIVINITY
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117052
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| ENERGY" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/ENERGYTV.png" group-title="EU | SPAIN HEVC",|HEVC| ENERGY
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117053
+#EXTINF:-1 tvg-ID="" tvg-name="-------| SPORTS |-------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",-------| SPORTS |-------
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117054
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.LCAMPEONES" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MLIGADECAMPENOES.png" group-title="EU | SPAIN HEVC",|HEVC| M.LCAMPEONES
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117055
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BEIN LALIGA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN HEVC",|HEVC| BEIN LALIGA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117058
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BEIN LALIGA1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="EU | SPAIN HEVC",|HEVC| BEIN LALIGA1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117059
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| EUROSPORT1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT1.png" group-title="EU | SPAIN HEVC",|HEVC| EUROSPORT1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117060
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| EUROSPORT 1" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT1.png" group-title="EU | SPAIN HEVC",|HEVC| EUROSPORT 1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117061
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| EUROSPORT 2" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/EUROSPORT2.png" group-title="EU | SPAIN HEVC",|HEVC| EUROSPORT 2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117062
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| GOL" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/GOLTV.png" group-title="EU | SPAIN HEVC",|HEVC| GOL
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117063
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| BAR TV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/LALIGABAR.png" group-title="EU | SPAIN HEVC",|HEVC| BAR TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117064
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| R.MADRID TV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/REALMADRID.png" group-title="EU | SPAIN HEVC",|HEVC| R.MADRID TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117065
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TOROS HD" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TOROSHD.png" group-title="EU | SPAIN HEVC",|HEVC| TOROS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117066
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DAZNT  FORMULA1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN HEVC",|HEVC| DAZNT  FORMULA1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117067
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DAZNT FORMULA1" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN HEVC",|HEVC| DAZNT FORMULA1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117068
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.GOLF HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARGOLF.png" group-title="EU | SPAIN HEVC",|HEVC| M.GOLF HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117069
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DAZN 1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN HEVC",|HEVC| DAZN 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117071
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DAZN 2 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN HEVC",|HEVC| DAZN 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117072
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M. LALIGA 1 HD (SOLO EVENTO)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN HEVC",|HEVC| M. LALIGA 1 HD (SOLO EVENTO)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117073
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M. LALIGA 2 HD (SOLO EVENTO)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN HEVC",|HEVC| M. LALIGA 2 HD (SOLO EVENTO)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117074
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M. LALIGA 3 HD (SOLO EVENTO)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARLALIGA.png" group-title="EU | SPAIN HEVC",|HEVC| M. LALIGA 3 HD (SOLO EVENTO)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117075
+#EXTINF:-1 tvg-ID="" tvg-name="------| MOVIESTAR |------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",------| MOVIESTAR |------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.ACCION HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARACTION.png" group-title="EU | SPAIN HEVC",|HEVC| M.ACCION HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117077
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.CINE ESPANOL" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDCINE.png" group-title="EU | SPAIN HEVC",|HEVC| M.CINE ESPANOL
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117078
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.COMEDIA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARCOMEDIA.png" group-title="EU | SPAIN HEVC",|HEVC| M.COMEDIA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117079
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.DRAMA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDRAMA.png" group-title="EU | SPAIN HEVC",|HEVC| M.DRAMA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117080
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.ESTRENOS HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARESTRENOS.png" group-title="EU | SPAIN HEVC",|HEVC| M.ESTRENOS HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117081
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.CINEDOC&ROLL" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDCINE.png" group-title="EU | SPAIN HEVC",|HEVC| M.CINEDOC&ROLL
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117082
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.CINEDOC&ROLL HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDCINE.png" group-title="EU | SPAIN HEVC",|HEVC| M.CINEDOC&ROLL HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117083
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.SERIES HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARSERIES.png" group-title="EU | SPAIN HEVC",|HEVC| M.SERIES HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117084
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.SERIESMANIA HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MSERIESMANIA.png" group-title="EU | SPAIN HEVC",|HEVC| M.SERIESMANIA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117085
+#EXTINF:-1 tvg-ID="" tvg-name="-------| SPORTS |-------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",-------| SPORTS |-------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M. DEPORTES HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN HEVC",|HEVC| M. DEPORTES HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117087
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.DEPORTES1 HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARDEPORTES.png" group-title="EU | SPAIN HEVC",|HEVC| M.DEPORTES1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117088
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| TELEDEPORTE" tvg-logo="http://logodmtv.ddns.net/logo_plus/SPAIN/TELEDEPORTE.png" group-title="EU | SPAIN HEVC",|HEVC| TELEDEPORTE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117089
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MEZZO" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MEZZO.png" group-title="EU | SPAIN HEVC",|HEVC| MEZZO
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117090
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MEZZO LIVE HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MEZZO.png" group-title="EU | SPAIN HEVC",|HEVC| MEZZO LIVE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117091
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| M.WIMBLEDON HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MOVISTARFOTBAL.png" group-title="EU | SPAIN HEVC",|HEVC| M.WIMBLEDON HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117092
+#EXTINF:-1 tvg-ID="" tvg-name="--------| MUSIC |--------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",--------| MUSIC |--------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MTV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MTV.png" group-title="EU | SPAIN HEVC",|HEVC| MTV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117094
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MTV DANCE" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MTV.png" group-title="EU | SPAIN HEVC",|HEVC| MTV DANCE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117095
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MTV ESPA¹A" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MTV.png" group-title="EU | SPAIN HEVC",|HEVC| MTV ESPA¹A
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117096
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| MTV HITS" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/MTV.png" group-title="EU | SPAIN HEVC",|HEVC| MTV HITS
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117097
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| SUNDANCE TV" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/SUNDANCETV.png" group-title="EU | SPAIN HEVC",|HEVC| SUNDANCE TV
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117098
+#EXTINF:-1 tvg-ID="" tvg-name="-----| DOCUMENTARY |-----" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-button-round-250.png" group-title="EU | SPAIN HEVC",-----| DOCUMENTARY |-----
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117099
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| DISCOVERY" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="EU | SPAIN HEVC",|HEVC| DISCOVERY
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117100
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NAT GEO HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEO.png" group-title="EU | SPAIN HEVC",|HEVC| NAT GEO HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117101
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NAT GEO WILD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEOWILD.png" group-title="EU | SPAIN HEVC",|HEVC| NAT GEO WILD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117102
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| NAT GEO WILD HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/NATGEOWILD.png" group-title="EU | SPAIN HEVC",|HEVC| NAT GEO WILD HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117103
+#EXTINF:-1 tvg-ID="" tvg-name="|HEVC| PARAMOUNT" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-SPAIN/PARAMOUNTCHANNEL.png" group-title="EU | SPAIN HEVC",|HEVC| PARAMOUNT
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/117104
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn F1" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn F1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89960
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| DAZNT Fórmula 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| DAZNT Fórmula 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201478
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| DAZNT Fórmula 1 SD" tvg-logo="" group-title="EU | SPAIN DAZN",|SP| DAZNT Fórmula 1 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202687
+#EXTINF:-1 tvg-ID="movistarpartidazo.es" tvg-name="|Daz| Daznt 1   (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Daznt 1   (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/21044
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| DAZN 1 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| DAZN 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201474
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| DAZN 1 SD" tvg-logo="" group-title="EU | SPAIN DAZN",|SP| DAZN 1 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202691
+#EXTINF:-1 tvg-ID="movistarpartidazo.es" tvg-name="|Daz| Daznt 2 (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Daznt 2 (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/65000
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| DAZN 2 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| DAZN 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201475
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| DAZN 2 SD" tvg-logo="" group-title="EU | SPAIN DAZN",|SP| DAZN 2 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202690
+#EXTINF:-1 tvg-ID="" tvg-name="|DAZ| Daznt 3 (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|DAZ| Daznt 3 (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/118928
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| DAZN 3 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| DAZN 3 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201476
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| DAZN 3 SD" tvg-logo="" group-title="EU | SPAIN DAZN",|SP| DAZN 3 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202689
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 4 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 4 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89961
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| DAZN 4 FHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| DAZN 4 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/201477
+#EXTINF:-1 tvg-ID="" tvg-name="|SP| DAZN 4 SD" tvg-logo="" group-title="EU | SPAIN DAZN",|SP| DAZN 4 SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/202688
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 5 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 5 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89962
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 6 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 6 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89963
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 7 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 7 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89964
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 8 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 8 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89965
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 9 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 9 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89966
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 10 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 10 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89967
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 11 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 11 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89968
+#EXTINF:-1 tvg-ID="" tvg-name="|Daz| Dazn 12 HD (Solo Eventos)" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | SPAIN DAZN",|Daz| Dazn 12 HD (Solo Eventos)
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/89969
+
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN 1 Bar HEVC" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | GERMANY DAZNT",|DE| DAZN 1 Bar HEVC
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/55088
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN 2 Bar HEVC" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | GERMANY DAZNT",|DE| DAZN 2 Bar HEVC
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/55089
+#EXTINF:-1 tvg-ID="daznbar1.de" tvg-name="|DE|DAZN 1 BAR 4K UHD/HDR" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/DAZN1BARFHD.png" group-title="EU | GERMANY DAZNT",|DE|DAZN 1 BAR 4K UHD/HDR
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/79325
+#EXTINF:-1 tvg-ID="daznbar1.de" tvg-name="|DE|DAZN Bar 1 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/DAZN1BARFHD.png" group-title="EU | GERMANY DAZNT",|DE|DAZN Bar 1 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/79323
+#EXTINF:-1 tvg-ID="daznbar2.de" tvg-name="|DE| DAZN Bar 2 FHD" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/DAZN2BARFHD.png" group-title="EU | GERMANY DAZNT",|DE| DAZN Bar 2 FHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/79324
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 1 BAR UHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | GERMANY DAZNT",|DE| DAZN 1 BAR UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/44864
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 1HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | GERMANY DAZNT",|DE| DAZN 1HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10005
+
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 2 BAR UHD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | GERMANY DAZNT",|DE| DAZN 2 BAR UHD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/44865
+#EXTINF:-1 tvg-ID="daznbar1.de" tvg-name="|DE|DAZN 1 Bar HEVC" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/DAZN1BARFHD.png" group-title="EU | GERMANY DAZNT",|DE|DAZN 1 Bar HEVC
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/78462
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="|DE| DAZN 2HD" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | GERMANY DAZNT",|DE| DAZN 2HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/10006
+
+#EXTINF:-1 tvg-ID="daznbar2.de" tvg-name="|DE|DAZN 2 Bar HEVC" tvg-logo="http://logodmtv.ddns.net/logo_plus/GERMANY/DAZN2BARFHD.png" group-title="EU | GERMANY DAZNT",|DE|DAZN 2 Bar HEVC
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/78463
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN NBA HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN NBA HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171481
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN NFL Network HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN NFL Network HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171482
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN MBL HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN MBL HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171483
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN LFC TV HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN LFC TV HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171484
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 1 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171485
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 2 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171486
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 3 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171487
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 4 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 4 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171488
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 5 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 5 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171489
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 6 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 6 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171490
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 7 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 7 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171491
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 8 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 8 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171492
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 9 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 9 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171493
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 10 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 10 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171494
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 11 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 11 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171495
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 12 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 12 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171496
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 13 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 13 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171497
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 14 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 14 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171498
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 15 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 15 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171499
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 16 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 16 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171500
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| DAZN Event 17 HD" tvg-logo="" group-title="EU | GERMANY DAZNT",|DE| DAZN Event 17 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/171501
+
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN DIRETTA GOL SERIE A" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN DIRETTA GOL SERIE A
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/160254
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN DIRETTA GOL SERIE B" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN DIRETTA GOL SERIE B
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/160255
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN DIRETTA GOL EUROPA LEAGUE" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN DIRETTA GOL EUROPA LEAGUE
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/167226
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN DIRETTA GOL EUROPA LEAGUE HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN DIRETTA GOL EUROPA LEAGUE HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190376
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN CHANNEL FULL HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN CHANNEL FULL HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/153576
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN CHANNEL HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN CHANNEL HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/153577
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN CHANNEL HEVC" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN CHANNEL HEVC
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/153575
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN CHANNEL SD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN CHANNEL SD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/153578
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 1 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 1 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190377
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 1" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 1
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68592
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 2 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 2 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190378
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 2" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 2
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68594
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 3 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 3 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190379
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 3" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 3
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68595
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 4 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 4 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190380
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 4" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 4
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68596
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 5 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 5 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190381
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 5" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 5
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68597
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 6 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 6 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190382
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 6" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 6
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68598
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 7 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 7 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190383
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 7" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 7
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68599
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 8 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 8 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190384
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 8" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 8
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68600
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 9 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 9 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190385
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 9" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 9
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68601
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 10 HD" tvg-logo="" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 10 HD
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/190386
+#EXTINF:-1 tvg-ID="" tvg-name="|IT| DAZN WEB 10" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/dazn.png" group-title="EU | ITALIA DAZN",|IT| DAZN WEB 10
+http://mag.d60.co:2082/buzz_268444/MDmaKynE/68593
